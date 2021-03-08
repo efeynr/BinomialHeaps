@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/efeye/CLionProjects/DataPrjct2/main.c
+stdio.h
+-
+stdlib.h
+-
+dirent.h
+-
+string.h
+-
+

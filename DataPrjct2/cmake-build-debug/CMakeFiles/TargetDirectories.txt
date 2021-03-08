@@ -1,0 +1,3 @@
+C:/Users/efeye/CLionProjects/DataPrjct2/cmake-build-debug/CMakeFiles/DataPrjct2.dir
+C:/Users/efeye/CLionProjects/DataPrjct2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/efeye/CLionProjects/DataPrjct2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
